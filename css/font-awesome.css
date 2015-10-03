@@ -2024,3 +2024,9 @@
 .fa-fonticons:before {
   content: "\f280";
 }
+.fa-sass:before {
+  content: "\f400";
+}
+.fa-sass-alt:before {
+  content: "\f401";
+}
