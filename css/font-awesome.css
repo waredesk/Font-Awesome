@@ -2030,3 +2030,54 @@
 .fa-sass-alt:before {
   content: "\f401";
 }
+.fa-less:before {
+  content: "\f402";
+}
+.fa-html:before {
+  content: "\f403";
+}
+.fa-css3-alt:before {
+  content: "\f404";
+}
+.fa-bootstrap:before {
+  content: "\f405";
+}
+.fa-python:before {
+  content: "\f42e";
+}
+.fa-php:before {
+  content: "\f42f";
+}
+.fa-java:before {
+  content: "\f430";
+}
+.fa-javascript:before {
+  content: "\f431";
+}
+.fa-lang-c:before {
+  content: "\f432";
+}
+.fa-shell:before {
+  content: "\f433";
+}
+.fa-shell-script:before {
+  content: "\f434";
+}
+.fa-ruby:before {
+  content: "\f435";
+}
+.fa-symfony:before {
+  content: "\f439";
+}
+.fa-yii:before {
+  content: "\f43a";
+}
+.fa-angularjs:before {
+  content: "\f43b";
+}
+.fa-jquery:before {
+  content: "\f43c";
+}
+.fa-nodejs:before {
+  content: "\f43d";
+}
