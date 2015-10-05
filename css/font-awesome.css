@@ -2081,3 +2081,24 @@
 .fa-nodejs:before {
   content: "\f43d";
 }
+.fa-hbase:before {
+  content: "\f43e";
+}
+.fa-cassandra:before {
+  content: "\f43f";
+}
+.fa-elasticsearch:before {
+  content: "\f440";
+}
+.fa-mongodb:before {
+  content: "\f441";
+}
+.fa-mysql:before {
+  content: "\f442";
+}
+.fa-solr:before {
+  content: "\f443";
+}
+.fa-sphinx:before {
+  content: "\f444";
+}
